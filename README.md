@@ -4,7 +4,8 @@ This repository contains a Jupyter notebook that demonstrates different **foreca
 
 You can **view the notebook directly on GitHub**, or **run it in Google Colab** to experiment with the code.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/a-lopera14/forecasting-methods/blob/main/forecasting_methods.ipynb])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-lopera14/forecasting-methods/blob/main/forecasting_methods.ipynb)
+
 
 ---
 
